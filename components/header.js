@@ -19,10 +19,11 @@ class header01 extends HTMLElement {
 
         <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
 
-            <a href="#" class="flex items-center skeleton2">
-                <img src="https://i.ibb.co/5YWrbR4/image.png" class="mr-3 h-10 sm:h-14" alt="Logo" />
+            <a href="#" class="flex items-center skeleton2 ">
+                <img src="./logo2.png" class="mr-3 h-10 sm:h-14" alt="Logo" />
                 <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white hidden">Flowbite</span>
             </a>
+
 
             <div class="flex items-center lg:order-2">
 
