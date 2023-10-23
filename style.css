@@ -67,12 +67,11 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 
   @font-face {
     font-family: 'fontePersonalizada';
-    src: 
-    url('./font/Fontspring-DEMO-theseasons-bd.otf') format('otf'),
+    src: url('./font/Fontspring-DEMO-theseasons-reg.otf'),
         
   }
 
-  *{ font-family: fontePersonalizada; }
+  h2{ font-family: fontePersonalizada; }
   
 
 
